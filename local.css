@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6{
 margin-left:		-1em;
 box-shadow: 1px 1px 1em 1px rgba(0, 0, 0, .5);
 clear:			both;
-padding:		.5em;
+padding:		1.5em, 1em, .5em, .5em;
 }
 h1{
 
@@ -88,7 +88,7 @@ blockquote{
 code{
 padding:		.5em;
 width:			80%;
-box-shadow: 1px 1px 1em 1px rgba(0, 0, 0, .5);
+box-shadow: 1px 1px 1em 3px rgba(0, 0, 0, .5);
 font-family:		'Terminus', Serif;
 background:		black;
 color:			#00FF00;
