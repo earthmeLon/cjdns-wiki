@@ -11,7 +11,7 @@ Edit this file to customize styling
 }
 @font-face {
   font-family: 'Terminus';
-  font-style: bold;
+  font-style: normal;
   font-weight: normal;
   src: local('/media/terminusbold.ttf') format('truetype');
 }
@@ -75,12 +75,12 @@ h5{
 a{
 text-decoration:	none;
 color:			black;
-text-shadow: 2px 3px 0 rgba(80,80,80,0.5);
+text-shadow: 2px 3px 0px rgba(80,80,80,0.5);
 }
 a:hover{
 text-shadow:
 	0px 0px 1em rgba(0,0,0,1),
-	2px 3px 0 rgba(255,0,180,0.5);
+	2px 3px 0px rgba(255,0,180,0.5);
 }
 p{
 background-color:	rgba(0,0,0,0.1);
