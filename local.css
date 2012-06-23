@@ -48,6 +48,7 @@ clear:			both;
 background-color:	rgba(80,80,80,.5);
 }
 .toc ol li{
+margin-top:		.5em;
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
 }
 /* Headers */
@@ -102,7 +103,7 @@ em{
 
 }
 ol, ul{
-margin-top:		.5em;
+
 }
 li a{
 }
