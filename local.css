@@ -1,8 +1,10 @@
-//cjdns-wiki 
-//Edit this file to customize styling
+/* cjdns-wiki 
+Edit this file to customize styling
+
+*/
 
 .page {
-font-family:		'Droid Sans', monoo;
+font-family:		'Droid Sans', mono;
 font-size:		1em;
 background-color:	#DDDDDD;
 }
