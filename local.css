@@ -35,7 +35,7 @@ list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
 /* Headers */
 h1, h2, h3, h4, h5, h6{
 margin-left:		-1em;
-box-shadow: 0em 0em 2em 1em rgba(50, 40, 60, 1);
+box-shadow: 1px 1px 1em .5em rgba(0, 0, 0, .5);
 }
 h1{
 
