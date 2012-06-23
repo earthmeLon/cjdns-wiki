@@ -5,7 +5,7 @@ Edit this file to customize styling
 body{
 font-family:		'Droid Sans', mono;
 font-size:		1em;
-background-color:	#CCC;
+background-color:	#999;
 }
 .page {
 
@@ -60,7 +60,7 @@ h5{
 a{
 text-decoration:	none;
 color:			black;
-text-shadow: 2px 3px 0 rgba(200,200,200,0.5);
+text-shadow: 2px 3px 0 rgba(150,150,150,0.5);
 }
 a:hover{
 text-shadow: 2px 3px 3px rgba(80,80,80,0.5);
