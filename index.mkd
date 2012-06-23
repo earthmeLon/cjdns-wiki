@@ -1,2 +1,0 @@
-[[!meta title="cjdns-wiki"]]
-[[!map pages="cjdns-*"]]
