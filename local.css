@@ -26,7 +26,6 @@ footer{
 /* Table of Contents */
 .toc{
 float:			right;
-font-size:		.5em;
 }
 .toc li{
 list-style-image:	url("/media/menu-bullet.png");
