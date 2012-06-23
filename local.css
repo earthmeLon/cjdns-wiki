@@ -92,7 +92,7 @@ background-color:	rgba(0,0,0,0.1);
 }
 code{
 padding:		.5em;
-box-shadow: 1px 1px 1em 3px rgba(0, 0, 0, .5);
+box-shadow: 1px 1px 1em 3px rgba(0, 0, 0, .2);
 font-family:		'Terminus', Serif;
 background:		rgba(0,0,0,.8);
 color:			rgba(255,0,180,1);
