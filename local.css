@@ -41,9 +41,10 @@ footer{
 }
 /* Table of Contents */
 .toc{
+margin:			0em;
 float:			right;
 clear:			both;
-margin:			0em;
+background-color:	rgba(255,255,255,.5);
 }
 .toc ol li{
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
