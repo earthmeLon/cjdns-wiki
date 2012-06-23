@@ -86,7 +86,7 @@ blockquote{
 
 }
 code{
-padding:		.5em
+padding:		.5em;
 width:			auto;
 font-family:		'Terminus', Serif;
 background:		black;
