@@ -1,4 +1,9 @@
+
+[[!meta title="Installing cjdns"]]
+[[!tag cjdns]]
+
 #cjdns Installation
+[[!toc startlevel=2 levels=4]]
 
 Installation and Usage of cjdns on the ps3
 
