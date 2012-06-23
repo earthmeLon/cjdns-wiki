@@ -59,7 +59,10 @@ h5{
 
 a{
 text-decoration:	none;
-text-shadow: 2px 2px 0 rgba(0,0,0,0.5);
+text-shadow: 2px 3px 0 rgba(0,0,0,0.5);
+}
+a:hover{
+text-shadow: 5px 6px 0 rgba(80,80,80,0.5);
 }
 p{
 
