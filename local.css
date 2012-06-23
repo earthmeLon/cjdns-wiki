@@ -2,8 +2,23 @@
 Edit this file to customize styling
 
 */
+
+@font-face {
+  font-family: 'Droid Sans Mono';
+  font-style: normal;
+  font-weight: normal;
+  src: local('/media/droidsansmono.ttf'), url('http://themes.googleusercontent.com/static/fonts/droidsansmono/v4/ns-m2xQYezAtqh7ai59hJYW_AySPyikQrZReizgrnuw.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Terminus';
+  font-style: bold;
+  font-weight: normal;
+  src: local('/media/terminusbold.ttf') format('truetype');
+}
+
+
 body{
-font-family:		'Droid Sans', mono;
+font-family:		'Droid Sans', Serif;
 font-size:		1em;
 background-color:	#d9d9d9;
 }
@@ -54,13 +69,6 @@ h4{
 h5{
 
 }
-@font-face {
-  font-family: 'Droid Sans Mono';
-  font-style: normal;
-  font-weight: normal;
-  src: local('/media/droidsansmono.ttf'), url('http://themes.googleusercontent.com/static/fonts/droidsansmono/v4/ns-m2xQYezAtqh7ai59hJYW_AySPyikQrZReizgrnuw.ttf') format('truetype');
-}		
-
 a{
 text-decoration:	none;
 color:			black;
@@ -75,11 +83,7 @@ p{
 
 }
 blockquote{
-@font-face {
-  font-family: 'Terminus (TTF)';
-  font-style: bold;
-  font-weight: normal;
-  src: local('/media/terminusbold.ttf'), format('truetype');
+font-family:		'Terminus', Serif;
 }
 em{
 
