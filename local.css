@@ -29,7 +29,7 @@ float:			right;
 clear:			all;
 margin:			0em;
 }
-.toc li{
+.toc ol li{
 list-style-image:	url("/media/menu-bullet.png");
 }
 /* Headers */
