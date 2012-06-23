@@ -45,7 +45,7 @@ padding:		.5em;
 margin-bottom:		1.5em;
 float:			right;
 clear:			both;
-background-color:	rgba(150,150,150,.5);
+background-color:	rgba(80,80,80,1);
 }
 .toc ol li{
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
@@ -84,7 +84,8 @@ text-shadow:
 }
 p{
 background-color:	rgba(0,0,0,0.1);
-box-shadow: 1px 1px 1em 3px rgba(0,0,0,.1);
+box-shadow: 1px 1px 1em 3px rgba(0,0,0,0.1);
+padding:		.25em;
 }
 blockquote{
 background-color:	rgba(0,0,0,0.1);
