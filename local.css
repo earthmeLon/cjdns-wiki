@@ -33,7 +33,7 @@ margin:			0em;
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
 }
 /* Headers */
-h{
+:header{
 margin-left:		-1em;
 box-shadow: 0em 0em 2em 1em rgba(50, 40, 60, 1);
 }
