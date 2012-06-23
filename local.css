@@ -1,7 +1,7 @@
 //cjdns-wiki 
 //Edit this file to customize styling
 
-.page{
+.page {
 font-family:		'Droid Sans', mono;
 font-size:		1em;
 background-color:	#DDDDDD;
@@ -9,7 +9,7 @@ background-color:	#DDDDDD;
 .pageheader{
 
 }
-.pagebody{
+#pagebody{
 
 }
 .content{
