@@ -1,2 +1,65 @@
 //cjdns-wiki 
 //Edit this file to customize styling
+
+.page{
+font-family:		'Droid Sans', mono;
+font-size:		1em;
+}
+.pageheader{
+
+}
+.pagebody{
+
+}
+.content{
+padding-left:		1em;
+}
+footer{
+
+}
+h{
+
+}
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+
+}
+h5{
+
+}
+@font-face {
+  font-family: 'Droid Sans Mono';
+  font-style: normal;
+  font-weight: normal;
+  src: local('/media/droidsansmono.ttf'), url('http://themes.googleusercontent.com/static/fonts/droidsansmono/v4/ns-m2xQYezAtqh7ai59hJYW_AySPyikQrZReizgrnuw.ttf') format('truetype');
+}		
+
+a{
+
+}
+p{
+
+}
+blockquote{
+
+}
+em{
+
+}
+ol, ul{
+
+}
+li{
+
+}
+hr{
+
+}
