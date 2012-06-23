@@ -100,7 +100,7 @@ em{
 }
 ol, ul{
 margin-top:		.5em;
-background-color:	#d9d9d9;
+background-color:	rgba(150,150,150,1);
 }
 li{
 background-color:	rgba(0,0,0,0.1);
