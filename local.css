@@ -89,12 +89,11 @@ blockquote{
 }
 code{
 padding:		.5em;
-width:			80%;
 box-shadow: 1px 1px 1em 3px rgba(0, 0, 0, .5);
 font-family:		'Terminus', Serif;
 background:		black;
 color:			#00FF00;
-display:		block;
+display:		inline;
 }
 em{
 
