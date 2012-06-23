@@ -101,12 +101,13 @@ em{
 }
 ol, ul{
 margin-top:		.5em;
+background-color:	rgba(0,0,0,0.1);
 }
 li{
-
+background-color:	rgba(0,0,0,0.1);
 }
 li(even){
-background-color:	black;
+background-color:	rgba(0,0,0,0.2);
 }
 hr{
 
