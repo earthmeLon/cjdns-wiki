@@ -1,0 +1,78 @@
+#cjdns-openwrt README
+
+**This is still in development, it almost certainly doesn't work yet.**
+
+This is an [OpenWRT](openwrt.org/) feed for the [cjdns](https://github.com/cjdelisle/cjdns) project.  You can check dd-wrt's [Router Database](http://www.dd-wrt.com/site/support/router-database) or OpenWRT's [Table of Hardware](http://wiki.openwrt.org/toh/start) for compatibility.
+
+
+##Building OpenWRT w. cjdns
+
+###Dependencies
+This is by no means a full list.
+
+**Debian**
+
+    apt-get install git subversion cmake build-essential libplib-dev
+
+###Download latest OpenWRT source
+
+    svn co svn://svn.openwrt.org/openwrt/trunk/ openwrt
+    cd openwrt
+    cp ./feeds.conf.default ./feeds.conf
+    echo 'src-git cjdns git://github.com/cjdelisle/cjdns-openwrt.git' >> ./feeds.conf
+    ./scripts/feeds update -a
+    ./scripts/feeds install cjdns nacl
+    make prereq
+
+Install any packages **make prereq** says are missing.
+
+###Configuring OpenWRT w. cjdns
+
+Check OpenWRT's [Table of Hardware](http://wiki.openwrt.org/toh/start) to find your chipset/target system.
+	
+	make menuconfig
+	* Select target system
+	make defconfig
+	make menuconfig
+	* Be sure to select the correct system type
+	* Network --> Routing and Redirection --> [*] cjdns
+		* Press space *twice*
+	make
+
+The packages can be found in the ./bin directory under a directory named after your router's architecture such as **./bin/brcm47xx**.
+
+###Build notes
+* Threading compilation (eg: **make -j 4**) may speed up build on multicore processors, but you should try without threading if you experience issues.
+* Try make V=s to diagnose if you experience issues.
+* You can start fresh and remove anything compiled, as well as the configuration with **make distclean**.  You will have to install the feeds and re-configure again.
+* Start off simple and don't install additional modules/options until you've familiarized yourself.
+* Read OpenWRT's [Troubleshooting Guide](http://wiki.openwrt.org/doc/howto/build#troubleshooting) and cjdns-openwrt [Issues](https://github.com/cjdelisle/cjdns-openwrt/issues) for more information.
+
+
+###Update/Rebuild
+    rm ./dl/cjdns-*
+    ./scripts/feeds update cjdns
+    make
+
+
+###WRT54G v5
+
+Installing OpenWRT has the potential of bricking your router.  Installing OpenWRT w. cjdns is still premature and it is not a recommended/supported.  Please be aware of the potential damage that could be caused to your hardware if following these instructions.
+
+####One-Time Preparation
+
+Some routers require a custom bootloader which requires special preparation for a successful installation.  These steps should be a one-time-only requirement.
+
+sudo apt-get install atftp
+atftp --option "mode octet" --option "timeout  60" --verbose --trace -p -l OPENWRT-CJDNS-FIRMWARE-FILE.bin 192.168.1.1
+
+* .bin Should be used if your router does not currently have OpenWRT firmware installed
+* .trx Should be used to upgrade previously installed OpenWRT firmware
+
+
+
+##Additional Information
+
+	http://web1.bt-chat.com/cjdns/openwrt/openwrt-src.sh.txt 
+	http://web1.bt-chat.com/cjdns/openwrt/README.txt
+
