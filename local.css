@@ -24,11 +24,11 @@ footer{
 
 }
 /* Table of Contents */
-toc{
+.toc{
 float:			right;
 font-size:		.5em;
 }
-toc.li{
+.toc li{
 list-style-image:	url("/media/menu-bullet.png");
 }
 /* Headers */
