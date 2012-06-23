@@ -101,10 +101,10 @@ em{
 ol, ul{
 margin-top:		.5em;
 }
-li{
+li a{
 background-color:	rgba(0,0,0,0.1);
 }
-li:nth-child(even){
+li:nth-child(even) a{
 background-color:	rgba(0,0,0,0.2);
 }
 hr{
