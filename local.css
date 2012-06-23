@@ -51,11 +51,10 @@ list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
 }
 /* Headers */
 h1, h2, h3, h4, h5, h6{
-margin-left:		-1em;
 box-shadow: 1px 1px 1em 1px rgba(0, 0, 0, .5);
 clear:			both;
 padding:		.5em;
-margin:			1em 1em 1.5em -.5em;
+margin:			1em 0em 1.5em -.5em;
 }
 h1{
 
@@ -101,11 +100,12 @@ em{
 }
 ol, ul{
 margin-top:		.5em;
+background-color:	#d9d9d9;
 }
 li{
 background-color:	rgba(0,0,0,0.1);
 }
-li(even){
+li:nth-child(even){
 background-color:	rgba(0,0,0,0.2);
 }
 hr{
