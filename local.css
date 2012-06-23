@@ -44,7 +44,7 @@ footer{
 margin:			0em;
 float:			right;
 clear:			both;
-background-color:	rgba(150,150,150,1);
+background-color:	rgba(150,150,150,.5);
 }
 .toc ol li{
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
