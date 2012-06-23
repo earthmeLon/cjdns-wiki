@@ -83,7 +83,7 @@ text-shadow:
 	2px 3px 0 rgba(255,0,180,0.5);
 }
 p{
-
+background-color:	rgba(0,0,0,0.1);
 }
 blockquote{
 background-color:	rgba(0,0,0,0.1);
@@ -93,7 +93,7 @@ padding:		.5em;
 box-shadow: 1px 1px 1em 3px rgba(0, 0, 0, .5);
 font-family:		'Terminus', Serif;
 background:		rgba(0,0,0,.8);
-color:			rgba(255,0,180,.8);
+color:			rgba(255,0,180,1);
 display:		block;
 }
 em{
