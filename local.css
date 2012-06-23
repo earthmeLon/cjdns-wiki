@@ -2,11 +2,13 @@
 Edit this file to customize styling
 
 */
-
-.page {
+body{
 font-family:		'Droid Sans', mono;
 font-size:		1em;
-background-color:	#DDDDDD;
+background-color:	#CCC;
+}
+.page {
+
 }
 .pageheader{
 
@@ -15,7 +17,7 @@ background-color:	#DDDDDD;
 
 }
 .content{
-padding-left:		1em;
+margin-left:		1em;
 }
 footer{
 
