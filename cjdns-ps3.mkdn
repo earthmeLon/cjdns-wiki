@@ -1,4 +1,8 @@
-#cjdns on PS3
+
+[[!meta title="cjdns on the PS3"]]
+[[!tag cjdns ps3]]
+
+#cjdns on the PS3
 
 The PS3 is capable of running Linux and cjdns.  The scope of this document is to explain how to create a crosscompiler and use said crosscompiler to compile patched kernels and modules.    
 
@@ -8,6 +12,7 @@ The PS3 is capable of running Linux and cjdns.  The scope of this document is to
 
 Much respect to glevand, durandal, and the rest of the [gitbrew](http://gitbrew.org) team their work and dedication to running Linux on the Playstation 3.
 
+[[!toc startlevel=2 levels=4]]
 
 ##powerpc64 toolchain
 
