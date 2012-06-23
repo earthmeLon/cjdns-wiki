@@ -76,8 +76,8 @@ p{
 }
 blockquote{
 @font-face {
-  font-family: 'Terminus';
-  font-style: normal;
+  font-family: 'Terminus (TTF)';
+  font-style: bold;
   font-weight: normal;
   src: local('/media/terminusbold.ttf'), format('truetype');
 }
