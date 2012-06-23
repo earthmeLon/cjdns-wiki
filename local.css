@@ -30,7 +30,7 @@ clear:			all;
 margin:			0em;
 }
 .toc ol li{
-list-style-image:	url("/media/menu-bullet.png");
+list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
 }
 /* Headers */
 h{
