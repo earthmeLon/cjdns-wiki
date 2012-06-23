@@ -26,7 +26,7 @@ footer{
 /* Table of Contents */
 .toc{
 float:			right;
-clear:			all;
+clear:			both;
 margin:			0em;
 }
 .toc ol li{
@@ -36,7 +36,7 @@ list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
 h1, h2, h3, h4, h5, h6{
 margin-left:		-1em;
 box-shadow: 1px 1px 1em 1px rgba(0, 0, 0, .5);
-clear:			all;
+clear:			both;
 padding:		.5em;
 }
 h1{
