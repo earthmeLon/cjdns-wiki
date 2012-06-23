@@ -45,7 +45,7 @@ padding:		.5em;
 margin-bottom:		1.5em;
 float:			right;
 clear:			both;
-background-color:	rgba(80,80,80,1);
+background-color:	rgba(80,80,80,.5);
 }
 .toc ol li{
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
@@ -92,7 +92,7 @@ background-color:	rgba(0,0,0,0.1);
 }
 code{
 padding:		.5em;
-box-shadow: 1px 1px 1em 3px rgba(0, 0, 0, .2);
+box-shadow: 1px 1px 1em 3px rgba(0, 0, 0, .5);
 font-family:		'Terminus', Serif;
 background:		rgba(0,0,0,.8);
 color:			rgba(255,0,180,1);
