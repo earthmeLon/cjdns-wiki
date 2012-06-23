@@ -72,10 +72,12 @@ em{
 }
 ol, ul{
 margin-top:		.5em;
-border-top:		1px solid black;
 }
 li{
-
+margin-top:		.25em;
+}
+li(even){
+background-color:	grey;
 }
 hr{
 
