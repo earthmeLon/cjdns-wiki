@@ -83,9 +83,11 @@ p{
 
 }
 blockquote{
+
+}
+code{
 padding:		.5em;
 font-family:		'Terminus', Serif;
-box-shadow: 1px 1px 1em 1px rgba(80, 80, 80, .5);
 background:		black;
 color:			#00FF00;
 }
