@@ -42,7 +42,7 @@ footer{
 /* Table of Contents */
 .toc{
 padding:		.5em;
-margin-bottom:		1.5
+margin-bottom:		1.5;
 float:			right;
 clear:			both;
 background-color:	rgba(150,150,150,.5);
