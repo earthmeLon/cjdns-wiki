@@ -1,0 +1,14 @@
+
+[[!tag cjdns irc hype]]
+
+\#cjdns is for clearnet users is on [EFNet](www.efnet.org/).  Use [Hyberboria](http://hyperboria.net) while on the hype network.
+
+* EFNet
+	* [irc://irc.efnet.org/#cjdns](irc://irc.efnet.org/#cjdns)
+	* [Web Client](http://chat.efnet.org:9090/?channels=%23cjdns&Login=Login)
+* Hyperboria
+	* irc.cjdns.tk (Requires [HypeDNS|cjdns-hyperboria#HypeDNS]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+	* Connect directly
+		* [derp](irc://fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+		* [Prurigro](irc://fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+		* [Jercos](irc://fca8:2dd7:4987:a9be:c8fc:34d7:5a1:4606) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
