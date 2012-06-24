@@ -4,16 +4,19 @@ Edit this file to customize styling
 */
 
 @font-face {
-  font-family: 'Droid Sans Mono';
+  font-family: 'Droid Sans';
   font-style: normal;
   font-weight: normal;
-  src: local('/cjdns-wiki/media/droidsansmono.ttf') format('truetype');
+  src: local('/cjdns-wiki/media/droidsansmono.ttf') format('truetype'),
+       url('/cjdns-wiki/media/droidsansmono.ttf') format('truetype');
+
 }
 @font-face {
   font-family: 'Terminus';
   font-style: normal;
   font-weight: normal;
-  src: local('/cjdns-wiki/media/terminusbold.ttf') format('truetype');
+  src: local('/cjdns-wiki/media/terminusbold.ttf') format('truetype'),
+       url('/cjdns-wiki/media/terminusbold.ttf') format('truetype');
 }
 
 
