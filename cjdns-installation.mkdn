@@ -86,7 +86,7 @@ In order to get into the network, you must connect to a person already in the ne
 	* [Web Client](http://chat.efnet.org:9090/?channels=%23cjdns&Login=Login)
 * Unofficial
   * [Project Meshnet Wiki](https://wiki.projectmeshnet.org/CJD's_Network_Suite)
-  * [Project Meshnet Wiki](http://[fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c]:90/CJD's_Network_Suite)![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+  * [Project Meshnet Wiki](http://[fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c]:90/CJD's_Network_Suite) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 
 ###Allowing Others to Connect to You
 
