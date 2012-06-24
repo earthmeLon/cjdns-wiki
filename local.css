@@ -7,13 +7,13 @@ Edit this file to customize styling
   font-family: 'Droid Sans Mono';
   font-style: normal;
   font-weight: normal;
-  src: local('/media/droidsansmono.ttf'), url('http://themes.googleusercontent.com/static/fonts/droidsansmono/v4/ns-m2xQYezAtqh7ai59hJYW_AySPyikQrZReizgrnuw.ttf') format('truetype');
+  src: local('/cjdns-wiki/media/droidsansmono.ttf'), url('http://themes.googleusercontent.com/static/fonts/droidsansmono/v4/ns-m2xQYezAtqh7ai59hJYW_AySPyikQrZReizgrnuw.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Terminus';
   font-style: normal;
   font-weight: normal;
-  src: local('/media/terminusbold.ttf') format('truetype');
+  src: local('/cjdns-wiki/media/terminusbold.ttf') format('truetype');
 }
 
 
