@@ -2,10 +2,10 @@
 [[!meta title="Installing cjdns"]]
 [[!tag cjdns]]
 
-#cjdns Installation
+#Installing cjdns
 [[!toc startlevel=2 levels=4]]
 
-Installation and Usage of cjdns on the ps3
+Installation and Usage of cjdns. 
 
 ##Dependencies
 	sudo apt-get install cmake git build-essential
