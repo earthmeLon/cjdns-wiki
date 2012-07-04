@@ -1,6 +1,6 @@
 #Tools
-
-Tools helpful to the use and management of cjdns
+[[!toc]]
+Tools helpful to the use and management of cjdns.
 
 
 ##Using cjdns through SOCKS5 Proxy
