@@ -1,5 +1,5 @@
 #Tools
-[[!toc]]
+[[!toc levels=4]]
 Tools helpful to the use and management of cjdns.
 
 
