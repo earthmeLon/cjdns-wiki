@@ -55,8 +55,9 @@ margin-top:		.5em;
 background-position:  100% .5em;
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
 }
-.toc ul{
+.toc ul li{
 text-align:   right;
+float:        right;
 }
 /* Headers */
 h1, h2, h3, h4, h5, h6{
