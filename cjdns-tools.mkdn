@@ -7,11 +7,9 @@ Tools helpful to the use and management of cjdns
 
 It is possible to run cjdns on a remote host and still utilize the network.  Data can be 'tunneled' and encrypted through an established SSH connection to the machine running cjdns.  Most modern clients support this type of proxy.
 
-Port 9000 can be changed for a port of your chosing, but represents the local port.  cjdns-host is the host running cjdroute.  If you haven't already, now would be a good time to set up your *.ssh/config* file.
-
 ###Establish a tunnel
 
-There are multiple ways of establishing a tunnel.
+There are multiple ways of establishing a tunnel. Port 9000 can be changed for a port of your chosing, but represents the local port.  cjdns-host is the host running cjdroute.  If you haven't already, now would be a good time to set up your *.ssh/config* file.
 
 * ssh -fND 9000 cjdns-host
 	* Recommended
