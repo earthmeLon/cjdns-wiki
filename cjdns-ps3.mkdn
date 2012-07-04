@@ -59,12 +59,12 @@ You will need to add the installation path of the new gcc to your environment an
 	. ~/.bashrc
 
 
-###linux-3.3.8 with TUN and glevand's patches
+##linux-3.3.8 with TUN and glevand's patches
 
 These instructions explain how to compile a new kernel w. TUN support, featuring glevand's gitbrew patches.
 
 
-####Configuring the kernel
+###Configuring the kernel
 	wget http://www.kernel.org/pub/linux/kernel/v3.0/linux-3.3.8.tar.bz2
 	tar xvjf linux-3.3.8.tar.bz2
 	cd linux-3.3.8
@@ -75,14 +75,14 @@ You will need to open .config and enable TUN:
 
 * Replace **# CONFIG_TUN is not set** with **CONFIG_TUN=y**
 
-####Building the kernel
+###Building the kernel
 	make ARCH=powerpc CROSS_COMPILE=powerpc64-linux- LOCALVERSION="-gitbrew.cjdns"
 	mkdir -p $HOME/linux-3.3.8-gitbrew.cjdns/boot
 	make ARCH=powerpc CROSS_COMPILE=powerpc64-linux- install INSTALL_PATH=$HOME/linux-3.3.8-gitbrew.cjdns/boot LOCALVERSION="-gitbrew.cjdns"
 	make ARCH=powerpc CROSS_COMPILE=powerpc64-linux- modules_install INSTALL_MOD_PATH=$HOME/linux-3.3.8-gitbrew.cjdns LOCALVERSION="-gitbrew.cjdns"
 	make ARCH=powerpc CROSS_COMPILE=powerpc64-linux- headers_install INSTALL_HDR_PATH=$HOME/linux-3.3.8-gitbrew.cjdns/usr LOCALVERSION="-gitbrew.cjdns"
 
-####Install the kernel on the target machine
+###Install the kernel on the target machine
 	cp linux-3.3.8-gitbrew.cjdns/boot/vmlinux /boot/vmlinux-3.3.8-gitbrew.cjdns
 	cp linux-3.3.8-gitbrew.cjdns/boot/System.map /boot/System.map-3.3.8-gitbrew.cjdns
 	rm -rf /lib/modules/3.3.8-gitbrew.cjdns
