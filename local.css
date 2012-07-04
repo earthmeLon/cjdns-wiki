@@ -30,7 +30,9 @@ background-color:	#d9d9d9;
 }
 .pageheader{
 padding-top:		2em;
+padding-bottom: 1em;
 margin-bottom:		2em;
+border-bottom:  1px solid black;
 }
 #pagebody{
 
@@ -45,22 +47,21 @@ footer{
 /* Table of Contents */
 .toc{
 padding:		.5em;
+padding-right: 2em;
 margin-bottom:		1.5em;
-float:      right;
+float:			right;
 clear:			both;
-background-color:	rgba(80,80,80,.5);
+background-color:	rgba(120,120,120,1);
 }
 .toc ol li{
 margin-top:		.5em;
-background-position:  100% .5em;
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
-}
-.toc ul li{
-
 }
 /* Headers */
 h1, h2, h3, h4, h5, h6{
+border-radius:  .5em;
 box-shadow: 1px 1px 1em 1px rgba(0, 0, 0, .5);
+border:     1px solid black;
 clear:			both;
 padding:		.5em;
 margin:			1em 0em 1.5em -.5em;
