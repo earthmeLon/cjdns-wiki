@@ -1,5 +1,5 @@
-
-[!tag cjdns hype readme]
+[[!meta title="cjdns Terminology"]]
+[[!tag cjdns hype readme]]
 #cjdns Terminology
 
 **cjdns**
