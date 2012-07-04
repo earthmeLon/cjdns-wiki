@@ -19,15 +19,15 @@ Edit this file to customize styling
        url('/cjdns-wiki/media/terminusbold.ttf') format('truetype');
 }
 
-
 body{
 font-family:		'Droid Sans', Serif;
 font-size:		1em;
 background-color:	#d9d9d9;
 max-width:    960px;
+text-align:   center;
 }
 .page {
-
+text-align:   left;
 }
 header{
 float:          left;
