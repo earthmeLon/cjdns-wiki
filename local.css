@@ -25,6 +25,7 @@ font-size:		1em;
 background-color:	#d9d9d9;
 max-width:    960px;
 text-align:   center;
+margin:       0 auto;
 }
 .page {
 text-align:   left;
