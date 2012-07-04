@@ -31,7 +31,7 @@ There are multiple ways of establishing a tunnel. Port 9000 can be changed for a
 
 The benefits of the first two options are that you create a 'dynamic' proxy, which allows use of any port, whereas the latter only support forwarding of a single port.  The last option will forward/redirect all traffic over that connection to a specified end-destination.
 
-###CLient-specific setup
+###Client-specific setup
 
 ####Chromium
 
