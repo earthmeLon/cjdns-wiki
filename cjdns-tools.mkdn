@@ -35,7 +35,7 @@ The benefits of the first two options are that you create a 'dynamic' proxy, whi
 
 ####Chromium
 
-This setup will allow you to set up a 'new' browser to view website using cjdns.  Creating a new data directory allows you to separate your cjdns and clearnet browsing.
+This setup will allow you to set up a 'new' browser to view websites using cjdns.  Creating a new data directory allows you to separate your cjdns and clearnet browsing.
 
 >> Make sure you have a config/data directory specific to your cjdns browsing
 
