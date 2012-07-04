@@ -48,6 +48,7 @@ padding:		.5em;
 margin-bottom:		1.5em;
 float:			right;
 clear:			both;
+text-align: right;
 background-color:	rgba(80,80,80,.5);
 }
 .toc ol li{
