@@ -1,0 +1,14 @@
+
+[!tag cjdns hype readme]
+#cjdns Terminology
+
+**cjdns**
+>> Internet routing system designed to better-handle security, as well as ease general routing of large networks.
+
+**hype**
+>> The network currently deploying cjdns.  Users are encouraged to join this cjdns network for testing. It is important to note, however, that hype != cjdns.
+
+**clearnet**
+>> The Internet, where most communications are passed 'in the clear'.
+
+
