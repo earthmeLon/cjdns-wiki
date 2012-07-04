@@ -2,3 +2,52 @@
 
 Tools helpful to the use and management of cjdns
 
+
+##Using cjdns through SOCKS5 Proxy
+
+It is possible to run cjdns on a remote host and still utilize the network.  Data can be 'tunneled' and encrypted through an established SSH connection to the machine running cjdns.  Most modern clients support this type of proxy.
+
+Port 9000 can be changed for a port of your chosing, but represents the local port.  cjdns-host is the host running cjdroute.  If you haven't already, now would be a good time to set up your *.ssh/config* file.
+
+###Establish a tunnel
+
+There are multiple ways of establishing a tunnel.
+
+* ssh -fND 9000 cjdns-host
+	* Recommended
+	* Creates socks5://localhost:9000
+	* Pushes to background (daemon)
+
+* ssh -D 9000 cjdns-host
+	* Creates socks5://localhost:9000
+	* Opens shell on cjdns-host
+
+* ssh -f cjdns-host -L 9000:cjdns-host:25 -N
+	* Creates proxy for local:9000 -> cjdns-host:25 -> destination
+	* Pushes to background (daemon)
+
+* ssh -f -L 9000:specific.cjdns.host:80 cjdns-host -N
+	* Creates traffic redirect local:9000 -> cjdns-host -> specific.cjdns.host:80
+	* Pushes to background (daemon)
+
+
+The benefits of the first two options are that you create a 'dynamic' proxy, which allows use of any port, whereas the latter only support forwarding of a single port.  The last option will forward/redirect all traffic over that connection to a specified end-destination.
+
+###CLient-specific setup
+
+####Chromium
+
+This setup will allow you to set up a 'new' browser to view website using cjdns.  Creating a new data directory allows you to separate your cjdns and clearnet browsing.
+
+>> Make sure you have a config/data directory specific to your cjdns browsing
+
+	mkdir ~/.config/chromium/cjdns
+
+>> Run chromium-browser to use above data directory and use your cjdns-tunnel
+
+	chromium-browser --user-data-dir=~/.config/chromium/cjdns --proxy-server=socks5://127.0.0.1:9000
+	
+
+
+	
+
