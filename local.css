@@ -48,12 +48,14 @@ padding:		.5em;
 margin-bottom:		1.5em;
 float:			right;
 clear:			both;
-text-align: right;
 background-color:	rgba(80,80,80,.5);
 }
 .toc ol li{
 margin-top:		.5em;
 list-style-image:	url("/cjdns-wiki/media/menu-bullet.png");
+}
+.toc ul{
+text-align:   right;
 }
 /* Headers */
 h1, h2, h3, h4, h5, h6{
