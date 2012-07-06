@@ -11,6 +11,8 @@ ipv6/ipv4 address are a pain to recall and associate with their purpose, so DNS 
 
 In order to use HypeDNS, you will need to tell your computer to ask HypeDNS for DNS information. You can change your system's 'DNS resolution' by editing related configuration files and adding HypeDNS as a nameserver.
 
+Owners of domain names may add 'AAAA' entries to their domain and use their cjdns ipv6 address to allow non-HypeDNS users easy accessibility to their website over Hyperboria.  mesh.neoretro.net uses this approach.
+
 ##Using HypeDNS for DNS resolution
 ###Linux
 
