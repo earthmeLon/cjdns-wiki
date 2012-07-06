@@ -29,3 +29,15 @@ This will *append* a line to your */etc/resolv.conf* file. Some users suggest ma
 * [HypeDNS Website](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS HOWTO](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS Node Listing](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/nodes/list/) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+
+
+#EZCrypt
+
+[EZCrypt](https://ezcrypt.it) is a pastebin service that allows it's users to encrypt and password-protect the data they upload before they upload it.  Encryption is not a requirement, but is done client-side, which makes EZCrypt a perfect alternative to any other paste-site, as it not only allows very open communication, but also gives the user the ability to share notes with only themselves or other trusted people.
+
+##Official Information
+
+* [EZCrypt Website](http://[https://ezcrypt.it)
+* [EZCrypt Website](http://[fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [EZCrypt About Page](http://[fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c]/about) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [EZCrypt Source](https://github.com/novaking/ezcrypt)
