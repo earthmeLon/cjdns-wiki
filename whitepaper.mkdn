@@ -1,6 +1,6 @@
 [[!meta title="Whitepaper"]]
 [[!tag README stable]]
-[[!toc level=4]]
+[[!toc levels=4]]
 
 # What?
 
