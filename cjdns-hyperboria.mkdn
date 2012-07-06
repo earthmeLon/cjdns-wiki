@@ -29,7 +29,7 @@ You will most likely leave your gateway nameserver (yours may show as 192.168.1.
 
 
 ##Configuring your HypeDNS entry
-**hypehost** is a script you can use to modify your HypeDNS entry.  You may also visit [HypeDNS/hypdns](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png) and configure through your browser. Remember, these should be run such that requests originate from the ipv6 address which you wish to alter (ie: run the script on the machine running cjdns).
+**[hypehost](http://nodeinfo.hype/files/hypehost.tar.gz)** is a script you can use to modify your HypeDNS entry.  You may also visit [HypeDNS/hypdns](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png) and configure through your browser. Users have reported better success rates using the website vs using the script.  Remember, these should be run such that requests originate from the ipv6 address which you wish to alter (ie: run the script on the machine running cjdns).
 
 
 
@@ -40,6 +40,13 @@ You will most likely leave your gateway nameserver (yours may show as 192.168.1.
 * [HypeDNS HOWTO](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS Node Listing](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/nodes/list/) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 
+#HypeIRC
+
+More information available on the [[IRC|cjdns-irc]] page.
+
+##Official Information
+
+[Project MeshNET](https://wiki.projectmeshnet.org/IRC)
 
 #EZCrypt
 
@@ -60,8 +67,3 @@ You will most likely leave your gateway nameserver (yours may show as 192.168.1.
 
 * [Uppit Website](http://uppit.us)
 * [Uppit Website](http://[fc3a:956e:4b69:1c1e:5ebc:11a5:3e71:3e7e]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
-
-
-#HypeIRC
-
-More information available on the [[IRC|cjdns-irc]] page.
