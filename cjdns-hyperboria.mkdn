@@ -85,3 +85,13 @@ More information available on the [[IRC|cjdns-irc]] page.
 * **[mesh.neoretro](http://mesh.neoretro)** ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [mesh.neoretro.net](http://fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [mesh.neoretro.net](http://mesh.neoretro.net)
+
+#BuildBot
+
+BuildBot is an integration system designed to ease compilation on multiple architectures.  BuildBot spams [IRC|cjdns-irc] with the status of new builds, as well as provides a nice interface for those interested in the latest builds of cjdns.
+
+##Official Information
+
+* **[buildbot.hype](http://buildbot.hype)** ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [BuildBot](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [BuildBot official website](http://trac.buildbot.net/)
