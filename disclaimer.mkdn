@@ -2,7 +2,7 @@
 
 
 
-Everything is experimental.  Nothing is guaranteed to work.  Anythign found here has the potential of:
+Everything is experimental.  Nothing is guaranteed to work.  Anything found here has the potential of:
 
 * Hurting you physically
 * Hurting you emotionally
