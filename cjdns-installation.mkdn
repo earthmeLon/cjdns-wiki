@@ -1,5 +1,5 @@
 [[!meta title="Installing cjdns"]]
-[[!tag cjdns]]
+[[!tag cjdns README help]]
 
 #Installing cjdns
 [[!toc startlevel=2 levels=4]]

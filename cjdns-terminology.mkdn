@@ -1,5 +1,5 @@
 [[!meta title="cjdns Terminology"]]
-[[!tag cjdns hype readme]]
+[[!tag cjdns hype README help]]
 #cjdns Terminology
 
 **cjdns**
