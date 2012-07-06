@@ -26,6 +26,7 @@ This will *append* a line to your */etc/resolv.conf* file. Some users suggest ma
 
 ##Official Information
 
+* **nodeinfo.hype**
 * [HypeDNS Website](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS HOWTO](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS Node Listing](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/nodes/list/) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
@@ -41,3 +42,12 @@ This will *append* a line to your */etc/resolv.conf* file. Some users suggest ma
 * [EZCrypt Website](http://[fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [EZCrypt About Page](http://[fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c]/about) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [EZCrypt Source](https://github.com/novaking/ezcrypt)
+
+
+#Uppit
+[Uppit](https://uppit.us) is a Hyperboria-exclusive community powered by [reddit](https://github.com/reddit/reddit/wiki).
+
+##Official Information
+
+* [Uppit Website](http://uppit.us)
+* [Uppit Website](http://[fc3a:956e:4b69:1c1e:5ebc:11a5:3e71:3e7e]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
