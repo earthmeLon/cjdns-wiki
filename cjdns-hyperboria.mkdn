@@ -35,7 +35,7 @@ You will most likely leave your gateway nameserver (yours may show as 192.168.1.
 
 ##Official Information
 
-* **nodeinfo.hype**
+* **[nodeinfo.hype](http://nodeinfo.hype)**
 * [HypeDNS Website](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS HOWTO](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS Node Listing](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/nodes/list/) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
@@ -67,3 +67,21 @@ More information available on the [[IRC|cjdns-irc]] page.
 
 * [Uppit Website](http://uppit.us)
 * [Uppit Website](http://[fc3a:956e:4b69:1c1e:5ebc:11a5:3e71:3e7e]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+
+#NeoRetro
+
+[mesh.neoretro](http://mesh.neoretro.net) is NeoRetro's gateway to Hyperboria.  It is hosted on a Playstation 3 (PPC64) that hopes to one day see OpenCL come to cjdns.
+
+##Services
+
+* [cjdns-wiki](http://[fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+	* [source](https://github.com/earthmeLon/cjdns-wiki) Feel free to contribute/fork.
+* NTP (Network Time Protocol)
+
+
+
+##Official Information
+
+* **[mesh.neoretro](http://mesh.neoretro)** ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [mesh.neoretro.net](http://fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [mesh.neoretro.net](http://mesh.neoretro.net)
