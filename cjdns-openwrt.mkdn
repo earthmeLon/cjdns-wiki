@@ -48,7 +48,7 @@ Be sure to select the correct system type
 	* Press space *twice*
 
 
-	make
+    make
 
 The packages can be found in the ./bin directory under a directory named after your router's architecture such as **./bin/brcm47xx**.
 
