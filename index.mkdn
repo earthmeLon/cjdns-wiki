@@ -4,8 +4,8 @@ Please read the [[cjdns-wiki README|README]] before proceding.  Also, understand
 
 ##Tags
 
-[[!map pages="tag/*.mdwn"]]
+[[!map pages="tag/*" show=title]]
 
 ##Pages
 
-[[!map pages="cjdns-*.mdwn"]]
+[[!map pages="cjdns-*" show=title]]
