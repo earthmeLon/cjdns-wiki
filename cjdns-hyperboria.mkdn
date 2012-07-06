@@ -35,7 +35,7 @@ You will most likely leave your gateway nameserver (yours may show as 192.168.1.
 
 ##Official Information
 
-* **[nodeinfo.hype](http://nodeinfo.hype)**
+* **[nodeinfo.hype](http://nodeinfo.hype)** ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS Website](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS HOWTO](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [HypeDNS Node Listing](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/nodes/list/) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
@@ -46,8 +46,8 @@ More information available on the [[IRC|cjdns-irc]] page.
 
 ##Official Information
 
-[Project MeshNET](https://wiki.projectmeshnet.org/IRC)
-[Project MeshNET](http://[fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [Project MeshNET](https://wiki.projectmeshnet.org/IRC)
+* [Project MeshNET](http://[fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 
 #EZCrypt
 
