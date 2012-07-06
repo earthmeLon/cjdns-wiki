@@ -6,7 +6,7 @@
 
 **This is still in development, it almost certainly doesn't work yet.**
 
-[[disclaimer| Read the Disclaimer]]
+[[Read the Disclaimer|disclaimer]]
 
 This is an [OpenWRT](openwrt.org/) feed for the [cjdns](https://github.com/cjdelisle/cjdns) project.  You can check dd-wrt's [Router Database](http://www.dd-wrt.com/site/support/router-database) or OpenWRT's [Table of Hardware](http://wiki.openwrt.org/toh/start) for compatibility.
 
