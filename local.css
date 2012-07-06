@@ -131,7 +131,13 @@ img{
 max-width:    832px;
 }
 
-@media tablet{
+@media only screen and
+  (-webkit-device-pixel-ratio:.75),
+  (-webkit-device-pixel-ratio:1),
+  (-webkit-device-pixel-ratio:1.5),
+  (device-width: 768px),
+  (-webkit-min-device-pixel-ratio: 2),
+  (max-device-width: 480px),
   a{
     text-decoration:  none;
     color:            rgba(80,80,80,0.5);
