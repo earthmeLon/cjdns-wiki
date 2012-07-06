@@ -1,5 +1,5 @@
+[[!meta title="Tools"]]
 #Tools
-[!meta title="Tools"
 [[!toc levels=4]]
 [[!tag proxy tunnel tools setup]]
 
