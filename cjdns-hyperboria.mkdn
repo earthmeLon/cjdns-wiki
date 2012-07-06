@@ -47,7 +47,7 @@ This will *append* a line to your */etc/resolv.conf* file. Some users suggest ma
 
 
 #Uppit
-[Uppit](https://uppit.us) is a Hyperboria-exclusive community powered by [reddit](https://github.com/reddit/reddit/wiki).
+[Uppit](https://uppit.us) is a Hyperboria-exclusive community powered by [reddit](https://github.com/reddit/reddit/wiki).  Uppit is available through clearnetDNS as well as HypeDNS via the **uppit.us** domain name.  Only users accessing Uppit over cjdns will be able to access the content, however.
 
 ##Official Information
 
