@@ -130,3 +130,10 @@ hr{
 img{
 max-width:    832px;
 }
+
+@media tablet{
+  a{
+    text-decoration:  none;
+    color:            rgba(80,80,80,0.5);
+  }
+}
