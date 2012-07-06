@@ -7,7 +7,7 @@ Hyperboria is the name of a large network of cjdns-running nodes.  There are a n
 
 #HypeDNS
 
-ipv6/ipv4 address are a pain to recall and associate with their purpose, so DNS is used.  Domain Name Service allows one to query such a server (or nameserver) for a domain name (eg: neoretro.net), which then returns the IP address with which you should communicate.  Although temporary, HypeDNS (once referred to as nodeInfo) alows users easier communication over Hyperboria.  A long-term DNS solution has yet to be found.  Please read the [[whitepaper]] and join [[IRC]] if DNS interests you.
+ipv6/ipv4 address are a pain to recall and associate with their purpose, so DNS is used.  Domain Name Service allows one to query such a server (or nameserver) for a domain name (eg: neoretro.net), which then returns the IP address with which you should communicate.  Although temporary, HypeDNS (once referred to as nodeInfo) alows users easier communication over Hyperboria.  A long-term DNS solution has yet to be found.  Please read the [[whitepaper]] and join [[IRC|cjdns-irc]] if DNS interests you.
 
 In order to use HypeDNS, you will need to tell your computer to ask HypeDNS for DNS information. You can change your system's 'DNS resolution' by editing related configuration files and adding HypeDNS as a nameserver.
 
