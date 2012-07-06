@@ -47,6 +47,7 @@ Be sure to select the correct system type
 * Network --> Routing and Redirection --> [*] cjdns
 	* Press space *twice*
 
+
 	make
 
 The packages can be found in the ./bin directory under a directory named after your router's architecture such as **./bin/brcm47xx**.
