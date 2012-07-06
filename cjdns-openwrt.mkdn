@@ -1,7 +1,5 @@
 [[!meta title="cjdns on the OpenWRT compatible routers"]]
 [[!tag cjdns openwrt]]
-
-#cjdns-openwrt README
 [[!toc startlevel=2 levels=4]]
 
 **This is still in development, it almost certainly doesn't work yet.**
