@@ -3,7 +3,9 @@
 Please read the [[cjdns-wiki README|README]] before proceding.  Also, understand the risks you are taking by reading the [[disclaimer]].
 
 ##Tags
-[[!map pages="/tag/*.mdwn"]]
+
+[[!map pages="tag/*.mdwn"]]
 
 ##Pages
+
 [[!map pages="cjdns-*.mdwn"]]
