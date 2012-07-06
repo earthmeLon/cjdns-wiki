@@ -3,6 +3,8 @@
 
 # What?
 
+[[!toc levels=4]]
+
 Imagine an Internet where every packet is cryptographically
 protected from source to destination against espionage and forgery, getting
 an IP address is as simple as generating a cryptographic key, core routers
@@ -12,8 +14,6 @@ to the mighty telecoms, anyone can do it by running some wires or turning on
 a wireless device.
 
 This is the vision of cjdns. 
-
-[[!toc levels=4]]
 
 # Why?
 
