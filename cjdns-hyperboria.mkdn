@@ -17,9 +17,15 @@ Owners of domain names may add 'AAAA' entries to their domain and use their cjdn
 ##Using HypeDNS for DNS resolution
 ###Linux
 
-This will *append* a line to your */etc/resolv.conf* file. Some users suggest manually adding this line to the top of the configuration file so that HypeDNS becomes your *primary* nameserver, and is queried before any additional nameservers.  Placing HypeDNS at the top of your resolve.conf is not required, however.
+Add HypeDNS as your primary nameserver. It is primary because it is above any other nameserver entries:
 
-    echo 'nameserver fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535' >> /etc/resolv.conf
+	vim /etc/resolve.conf
+
+	nameserver fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535
+	nameserver 10.1.1.1
+
+You will most likely leave your gateway nameserver (yours may show as 192.168.1.1 or something else), so that you can still communicate over ipv4 and ClearNET.
+
 
 
 ##Configuring your HypeDNS entry
