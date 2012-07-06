@@ -134,7 +134,7 @@ max-width:    832px;
 @media only screen and
   (device-width: 768px),
   (max-device-width: 480px),
-  (-webkit-device-pixel-ratio:1)
+  (-webkit-device-pixel-ratio:1.5)
   {
   a{
     text-decoration:  none;
