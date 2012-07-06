@@ -47,6 +47,7 @@ More information available on the [[IRC|cjdns-irc]] page.
 ##Official Information
 
 [Project MeshNET](https://wiki.projectmeshnet.org/IRC)
+[Project MeshNET](http://[fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 
 #EZCrypt
 
