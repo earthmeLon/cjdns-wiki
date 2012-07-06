@@ -1,8 +1,6 @@
 [[!meta title="Whitepaper"]]
-[[!tag README stable help]]
-
+[[!tag README help]]
 # What?
-
 [[!toc levels=4]]
 
 Imagine an Internet where every packet is cryptographically

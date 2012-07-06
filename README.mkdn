@@ -1,4 +1,4 @@
-[[!meta title="cjdns-wiki README"]]
+[[!meta title="README"]]
 [[!tag README help]]
 [[!toc levels=4]]
 

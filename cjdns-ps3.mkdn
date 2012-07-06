@@ -1,7 +1,5 @@
-
 [[!meta title="cjdns on the PS3"]]
 [[!tag cjdns ps3 help advanced]]
-
 #cjdns on the PS3
 [[!toc startlevel=2 levels=4]]
 

@@ -1,6 +1,6 @@
 [[!meta title="cjdns-wiki"]]
 
-Please read the [[cjdns-wiki README|README]] before proceding.  Also, understand the risks you are taking by reading the [[disclaimer]].
+Please read the [[README]] before proceding.  Also, understand the risks you are taking by reading the [[disclaimer]].
 
 ##Pages
 

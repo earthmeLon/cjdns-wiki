@@ -1,5 +1,6 @@
 [[!meta title="Hyperboria"]]
 [[!tag hype connected]]
+#Hyperboria
 [[!toc levels=4]]
 
 Hyperboria is the name of a large network of cjdns-running nodes.  There are a number of services currently running on it.

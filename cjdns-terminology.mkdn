@@ -1,6 +1,6 @@
-[[!meta title="cjdns Terminology"]]
+[[!meta title="Terminology"]]
 [[!tag cjdns hype README help]]
-#cjdns Terminology
+#Terminology
 
 **cjdns**
 >> Internet routing system designed to better-handle security, as well as ease general routing of large networks.
