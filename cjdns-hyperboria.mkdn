@@ -64,4 +64,4 @@ You will most likely leave your gateway nameserver (yours may show as 192.168.1.
 
 #HypeIRC
 
-More information available on the [[IRC]] page.
+More information available on the [[IRC|cjdns-irc]] page.
