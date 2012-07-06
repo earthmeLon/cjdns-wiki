@@ -88,7 +88,7 @@ More information available on the [[IRC|cjdns-irc]] page.
 
 #BuildBot
 
-BuildBot is an integration system designed to ease compilation on multiple architectures.  BuildBot spams [IRC|cjdns-irc] with the status of new builds, as well as provides a nice interface for those interested in the latest builds of cjdns.
+BuildBot is an integration system designed to ease compilation on multiple architectures.  BuildBot spams [[IRC|cjdns-irc]] with the status of new builds, as well as provides a nice interface for those interested in the latest builds of cjdns.
 
 ##Official Information
 
