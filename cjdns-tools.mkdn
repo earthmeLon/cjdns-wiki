@@ -47,6 +47,13 @@ This setup will allow you to set up a 'new' browser to view websites using cjdns
 >> Run chromium-browser to use above data directory and use your cjdns-tunnel
 
 	chromium-browser --user-data-dir=~/.config/chromium/cjdns --proxy-server=socks5://127.0.0.1:9000
+
+**Notes**
+
+* Pre-pend *http://* to any [[HypeDNS|cjdns-hyperboria]] urls to prevent google from searching for the HypeDNS domain you've entered:
+	* **http://mesh.neoretro** vs mesh.neoretro
+* Surround ipv6 address with brackets:
+	* **[fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88]** vs fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88
 	
 
 
