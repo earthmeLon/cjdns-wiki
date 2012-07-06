@@ -14,7 +14,7 @@ In order to use HypeDNS, you will need to tell your computer to ask HypeDNS for 
 ##Using HypeDNS for DNS resolution
 ###Linux
 
-This will *append* this line to your */etc/resolv.conf* file.
+This will *append* a line to your */etc/resolv.conf* file. Some users suggest manually adding this line to the top of the configuration file so that HypeDNS becomes your *primary* nameserver, and is queried before any additional nameservers.  Placing HypeDNS at the top of your resolve.conf is not required, however.
 
     echo 'nameserver fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535' >> /etc/resolv.conf
 
@@ -23,3 +23,9 @@ This will *append* this line to your */etc/resolv.conf* file.
 **hypehost** is a script you can use to modify your HypeDNS entry.  You may also visit [HypeDNS/hypdns](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png) and configure through your browser. Remember, these should be run such that requests originate from the ipv6 address which you wish to alter (ie: run the script on the machine running cjdns).
 
 
+
+##Official Information
+
+* [HypeDNS Website](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [HypeDNS HOWTO](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* [HypeDNS Node Listing](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/nodes/list/) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
