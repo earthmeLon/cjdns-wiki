@@ -100,8 +100,7 @@ text-shadow:
 p{
 background-color:	rgba(0,0,0,0.1);
 box-shadow:       1px 1px 1em 3px rgba(0,0,0,0.1);
-padding-right:		1em;
-padding-left:     1em;
+padding:          1em;
 margin-right:     1em;
 }
 blockquote{
