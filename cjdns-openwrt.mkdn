@@ -43,8 +43,9 @@ Select target system
 	make menuconfig
 
 Be sure to select the correct system type
-Network --> Routing and Redirection --> [*] cjdns
-* Press space *twice*
+
+* Network --> Routing and Redirection --> [*] cjdns
+	* Press space *twice*
 
 	make
 
