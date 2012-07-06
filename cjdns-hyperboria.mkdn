@@ -60,3 +60,8 @@ You will most likely leave your gateway nameserver (yours may show as 192.168.1.
 
 * [Uppit Website](http://uppit.us)
 * [Uppit Website](http://[fc3a:956e:4b69:1c1e:5ebc:11a5:3e71:3e7e]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+
+
+#HypeIRC
+
+More information available on the [[IRC]] page.
