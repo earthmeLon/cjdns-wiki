@@ -1,0 +1,21 @@
+[[!meta title="cjdns-wiki README"]]
+[[!tag README help]]
+[[!toc levels=4]]
+
+
+##Tags
+
+* [[!taglink README]]
+	Used to denote entries that should be read before starting anything.  These pages help people gain entry-level knowledge of cjdns and how to use it.
+
+* [[!taglink help]]
+	Used to tag entries containing helpful information, especially for getting started.  Although most pages will be 'helpful' there may come a time when this is not true.
+
+* [[!taglink connected]]
+	These pages are useful to those already connected to a cjdns network.
+
+* [[!taglink hype]]
+	Pages regarding [[Hyperboria|cjdns-hyperboria]] and services specific to that network.
+
+* [[!taglink advanced]]
+	This tag is used to group pages that are not required to get cjdns functioning on normal hardware.  Following [[!taglink advanced]] may require additional or specialized knowledge.
