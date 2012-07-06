@@ -6,7 +6,7 @@
 This README is specific to this cjdns-wiki on mesh.neoretro.  Users are encouraged to read all pages in the [[!taglink README]] category.
 
 * **[mesh.neoretro](http://mesh.neoretro)** - HypeDNS ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
-* **[mesh.neoretro.net](http://fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88) - ClearNET ipv6 over cjdns ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+* **[mesh.neoretro.net](http://fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88)** - ClearNET ipv6 over cjdns ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * **[mesh.neoretro.net](http://mesh.neoretro.net)** - ClearNET ipv4 over CLearNET
 
 ##Disclaimer
