@@ -1,3 +1,22 @@
+[[!meta title="Hyperboria"]]
+[[!tag hype connected]]
+[[!toc levels=4]]
+
+Hyperboria is the name of a large network of cjdns-running nodes.  There are a number of services currently running on it.
 
 
-##HypeDNS
+#HypeDNS
+
+ipv6/ipv4 address are a pain to recall and associate with their purpose, so DNS is used.  Domain Name Service allows one to query such a server (or nameserver) for a domain name (eg: neoretro.net), which then returns the IP address with which you should communicate.  Although temporary, HypeDNS (once referred to as nodeInfo) alows users easier communication over Hyperboria.  A long-term DNS solution has yet to be found.  Please read the [[whitepaper]] and join [[IRC]] if DNS interests you.
+
+In order to use HypeDNS, you will need to tell your computer to ask HypeDNS for DNS information. You can change your system's 'DNS resolution' by editing related configuration files and adding HypeDNS as a nameserver.
+
+* Linux
+	echo 'nameserver fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535' >> /etc/resolv.conf
+
+This will *append* this line to your */etc/resolv.conf* file.
+
+
+**hypehost** is a script you can use to modify your HypeDNS entry.  You may also visit [HypeDNS/hypdns](http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/hypedns) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png) and configure through your browser. Remember, these should be run such that requests originate from the ipv6 address which you wish to alter (ie: run the script on the machine running cjdns).
+
+
