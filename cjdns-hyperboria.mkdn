@@ -37,7 +37,7 @@ This will *append* a line to your */etc/resolv.conf* file. Some users suggest ma
 
 ##Official Information
 
-* [EZCrypt Website](http://[https://ezcrypt.it)
+* [EZCrypt Website](https://ezcrypt.it)
 * [EZCrypt Website](http://[fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [EZCrypt About Page](http://[fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c]/about) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 * [EZCrypt Source](https://github.com/novaking/ezcrypt)
