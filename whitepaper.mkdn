@@ -1,6 +1,5 @@
 [[!meta title="Whitepaper"]]
 [[!tag README stable]]
-[[!toc levels=4]]
 
 # What?
 
@@ -13,6 +12,8 @@ to the mighty telecoms, anyone can do it by running some wires or turning on
 a wireless device.
 
 This is the vision of cjdns. 
+
+[[!toc levels=4]]
 
 # Why?
 
