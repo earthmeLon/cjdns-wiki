@@ -37,14 +37,14 @@ Check OpenWRT's [Table of Hardware](http://wiki.openwrt.org/toh/start) to find y
 	
 	make menuconfig
 
-* Select target system
+Select target system
 
 	make defconfig
 	make menuconfig
 
-* Be sure to select the correct system type
-* Network --> Routing and Redirection --> [*] cjdns
-	* Press space *twice*
+Be sure to select the correct system type
+Network --> Routing and Redirection --> [*] cjdns
+* Press space *twice*
 
 	make
 
