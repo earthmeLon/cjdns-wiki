@@ -1,3 +1,7 @@
+[[!meta title="Whitepaper"]]
+[[!tag README stable]]
+[[!toc level=4]]
+
 # What?
 
 Imagine an Internet where every packet is cryptographically
