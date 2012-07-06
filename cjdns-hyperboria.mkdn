@@ -13,7 +13,7 @@ In order to use HypeDNS, you will need to tell your computer to ask HypeDNS for 
 
 * Linux
 
->> echo 'nameserver fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535' >> /etc/resolv.conf
+     echo 'nameserver fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535' >> /etc/resolv.conf
 
 This will *append* this line to your */etc/resolv.conf* file.
 
