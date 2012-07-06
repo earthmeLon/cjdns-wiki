@@ -4,9 +4,9 @@
 #Installing cjdns
 [[!toc startlevel=2 levels=4]]
 
-Installation and Usage of cjdns.
+Installation and usage of cjdns.
 
-In order to run cjdns, you must compile cjdns, verify that certain components are working, add your friend's node to your connection list, and fire it up.  Don't forget to stop by [[#cjdns|cjdns-irc]], especially if you run into problems.
+In order to run cjdns, you must compile cjdns, verify that certain components are working, add your friend's node to your connection list, and fire it up.  Don't forget to stop by [[#cjdns|cjdns-irc]], especially if you run into problems.  Also, be sure to read all [[!taglink README]] pages, especially the [[whitepaper]].
 
 ##Dependencies
 	sudo apt-get install cmake git build-essential
