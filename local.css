@@ -127,3 +127,6 @@ li:nth-child(even) a{
 hr{
 
 }
+img{
+max-width:    900px;
+}
