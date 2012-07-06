@@ -16,7 +16,7 @@ Everything is experimental.  Nothing is guaranteed to work.  Anythign found here
 This is **NOT** a complete listing and users should know they take full responsiblity and personal risk for anything mentioned in this wiki.
 
 
-    DISCLAIMER OF WARRANTY
+##DISCLAIMER OF WARRANTY
 
   This software is freely distributed in accordance with
 the GNU Lesser General Public (LGPL) license, version 3 or later
