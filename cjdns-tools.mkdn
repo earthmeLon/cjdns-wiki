@@ -1,7 +1,7 @@
 [[!meta title="Tools"]]
 #Tools
 [[!toc levels=4]]
-[[!tag proxy tunnel tools setup]]
+[[!tag proxy tunnel tools setup connected help]]
 
 Tools helpful to the use and management of cjdns.
 

@@ -1,5 +1,5 @@
 [[!meta title="Whitepaper"]]
-[[!tag README stable]]
+[[!tag README stable help]]
 
 # What?
 

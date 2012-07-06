@@ -1,5 +1,5 @@
 
-[[!tag cjdns irc hype]]
+[[!tag cjdns irc hype connected help]]
 
 \#cjdns is for clearnet users is on [EFNet](www.efnet.org/).  Use [Hyberboria](http://hyperboria.net) while on the hype network.
 
