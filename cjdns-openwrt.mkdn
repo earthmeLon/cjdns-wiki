@@ -1,4 +1,4 @@
-[[!meta title="cjdns on the OpenWRT compatible routers"]]
+[[!meta title="cjdns on OpenWRT compatible routers"]]
 [[!tag cjdns openwrt advanced help]]
 [[!toc startlevel=2 levels=4]]
 
