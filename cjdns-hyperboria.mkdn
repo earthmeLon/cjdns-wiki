@@ -78,7 +78,9 @@ More information available on the [[IRC|cjdns-irc]] page.
 
 * [cjdns-wiki](http://[fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88]) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
 	* [source](https://github.com/earthmeLon/cjdns-wiki) - Feel free to contribute/fork.
-* NTP (Network Time Protocol)
+* NTP Server
+* [git Hosting](http://[fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88]/gitweb/) ![Connect via cjdns](/cjdns-wiki/media/cjdns_icon_16.png)
+	* Request an account on [[IRC]].
 
 
 
