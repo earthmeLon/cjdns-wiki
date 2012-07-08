@@ -6,6 +6,13 @@
 Tools helpful to the use and management of cjdns.
 
 
+##HypeDNS
+
+Temprorary DNS service to turn ipv6 addresses into human-readable names.
+
+See [[Hyperboria]].
+
+
 ##Using cjdns through SOCKS5 Proxy
 
 It is possible to run cjdns on a remote host and still utilize the network.  Data can be 'tunneled' and encrypted through an established SSH connection to the machine running cjdns.  Most modern clients support this type of proxy.
@@ -54,6 +61,28 @@ This setup will allow you to set up a 'new' browser to view websites using cjdns
 	* **http://mesh.neoretro** vs mesh.neoretro
 * Surround ipv6 address with brackets:
 	* **[fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88]** vs fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88
+
+
+##[cjdns-tool](https://github.com/kechagia/cjdns-tool)
+
+A 'small command line tool that queries the cjdns admin interface for information'.  cjdns-tool can be used to do a variety of tasks including pinging other nodes, pinging all other known nodes and looking at your currently known routes.
+
+	$ cjdns-tool help
+	Tasks:
+	cjdns-tool help [TASK]  # Describe available tasks or one specific task
+	cjdns-tool list         # show all known ipv6 addresses of the cjdns network
+	cjdns-tool ping         # ping all nodes, generating a list of reachable ips
+	cjdns-tool routes       # shows all routes in routing table
+
+**Tips**
+
+* Create a symbolic link from your cjdroute.conf to /etc/cjdroute.conf, since that is where cjdns-tool checks.
+* After compiling cjdns-tool, add the *bin/* directory to your $PATH variable in your bash. Be sure to reload your .bashrc/open a new terminal after making the change.
+
+	vim ~/.bashrc
+	export PATH="$PATH:/path/to/cjdns-tool/bin"
+
+More information is available at the [cjdns-tool github README](https://github.com/kechagia/cjdns-tool)
 	
 
 
