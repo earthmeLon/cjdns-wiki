@@ -81,9 +81,9 @@ A 'small command line tool that queries the cjdns admin interface for informatio
 
 <span style="visibility:hidden;"></span>
 
-	vim ~/.bashrc
+	$ vim ~/.bashrc
 	export PATH="$PATH:/path/to/cjdns-tool/bin"
 
-	. ~/.bashrc
+	$ . ~/.bashrc
 
 More information is available at the [cjdns-tool github README](https://github.com/kechagia/cjdns-tool)
