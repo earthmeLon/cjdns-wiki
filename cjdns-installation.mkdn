@@ -30,7 +30,7 @@ If it says...
 	* **sudo mkdir /dev/net ; sudo mknod /dev/net/tun c 10 200 && sudo chmod 0666 /dev/net/tun**
 	* **cat /dev/net/tun**
 * "Permission denied"
-	* You're probably using a VPS based on the OpenVS virtualization platform.  TUN/TAP devices are standard protocol, so your provider should know exactly what you need.
+	* You're probably using a VPS based on the OpenVZ virtualization platform.  TUN/TAP devices are standard protocol, so your provider should know exactly what you need.
 
 ##Generate a Configuration File
 
