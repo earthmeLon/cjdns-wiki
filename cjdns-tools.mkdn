@@ -83,8 +83,3 @@ A 'small command line tool that queries the cjdns admin interface for informatio
 	export PATH="$PATH:/path/to/cjdns-tool/bin"
 
 More information is available at the [cjdns-tool github README](https://github.com/kechagia/cjdns-tool)
-	
-
-
-	
-
