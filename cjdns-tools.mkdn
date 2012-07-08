@@ -79,7 +79,7 @@ A 'small command line tool that queries the cjdns admin interface for informatio
 * Create a symbolic link from your cjdroute.conf to /etc/cjdroute.conf, since that is where cjdns-tool checks.
 * After compiling cjdns-tool, add the *bin/* directory to your $PATH variable in your bash. Be sure to reload your .bashrc/open a new terminal after making the change.
 
-<span style="display:none;visibility:hidden;"></span>
+<span style="display:inline;visibility:hidden;"></span>
 
 	vim ~/.bashrc
 	export PATH="$PATH:/path/to/cjdns-tool/bin"
