@@ -124,4 +124,11 @@ cjdns supports the use of multiple connection credentials under *authorizedPassw
 	screen -S cjdns
 	./cjdroute < cjdroute.conf > cjdroute.log
 
-<hr></hr>
+##Securing your system
+
+It is up to you to decide which ports you wish to leave open to your cjdns connection, but it is recommended that **everyone** run the following command to see/remind yourself which ports are actually accessible.  Once you see what's open, decide what you need open to the cjdns network.
+
+	nmap -6 -n -r -v -p1-65535 fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88
+
+Where you replace the above ipv6 address with yours. (See **ifconfig** tun address)
+
