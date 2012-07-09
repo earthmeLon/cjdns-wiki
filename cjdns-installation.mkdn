@@ -112,6 +112,16 @@ cjdns supports the use of multiple connection credentials under *authorizedPassw
         }
     ],
 
+##Running cjdns
 
+###Run cjdns in screen
+
+	screen -S cjdns
+	./cjdroute < cjdroute.conf
+
+###Run cjdns and log output
+
+	screen -S cjdns
+	./cjdroute < cjdroute.conf > cjdroute.log
 
 <hr></hr>
