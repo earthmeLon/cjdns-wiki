@@ -132,3 +132,11 @@ It is up to you to decide which ports you wish to leave open to your cjdns conne
 
 Where you replace the above ipv6 address with yours. (See **ifconfig** tun address)
 
+Most daemons provide a way of setting which addresses or interfaces they will listen on, but you may need to write **ip6tables** rules for some of them.
+
+
+
+
+
+
+
