@@ -4,7 +4,7 @@ Please read the [[README]] before proceding.  Also, understand the risks you are
 
 ##Pages
 
-[[!map pages="cjdns-*" show=title]]
+[[!map pages="*.mkdn" show=title]]
 
 ##Tags
 
