@@ -7,7 +7,7 @@
 ##Installing bitcoind
 
 ###Install miniupnpc
-miniupnpc is a upnp client that helps ease router administration by allowing devices to requests port forwarding.
+miniupnpc is a upnp client library that helps ease router administration by allowing devices to requests port forwarding.
 
 	wget http://miniupnp.tuxfamily.org/files/download.php?file=miniupnpc-1.7.tar.gz
 	tar -xvzf miniupnpc-1.7.tar.gz
