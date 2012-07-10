@@ -1,0 +1,25 @@
+[[!meta title="Installing bitcoind"]]
+[[!tag connected bitcoin]]
+#bitcoind
+[[!toc levels=4]]
+
+
+##Installing bitcoind
+
+###Install miniupnpc
+miniupnpc is a upnp client that helps ease router administration by allowing devices to requests port forwarding.
+
+	wget http://miniupnp.tuxfamily.org/files/download.php?file=miniupnpc-1.7.tar.gz
+	tar -xvzf miniupnpc-1.7.tar.gz
+	cd miniupnpc-1.7.tar.gz
+	make && make install
+
+###Install bitcoind
+
+	sudo apt-get install build-essential libssl-dev libdb4.8-dev libdb4.8++-dev libboost-all-dev
+	git clone git://github.com/bitcoin/bitcoin.git
+	cd bitcoin/src/
+	make -f makefile.unix USE_IPV6=1 USE_UPNP=1
+
+
+libboost-all-dev is ~205MB.  I am not sure if this is completely necessary.  If you determine which boost packages are required, please let @meLon know on [[IRC]].
