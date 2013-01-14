@@ -1,3 +1,8 @@
+[[!meta title="README"]]
+[[!tag arm]]
+#ARM Cortex/NEON List
+[[!toc levels=4]]
+
 ##Cortex-A8
 
 ###Devices
