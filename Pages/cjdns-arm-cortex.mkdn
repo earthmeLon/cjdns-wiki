@@ -1,0 +1,85 @@
+##Cortex-A8
+
+###Devices
+
+ * Texas Instruments OMAP3xxx series
+ * Freescale i.MX51-SOC
+ * Freescale i.MX53 QSB
+ * Apple A4
+ * ZiiLABS ZMS-08
+ * Snapdragon
+ * Samsung Hummingbird S5PC100/S5PC110
+ * Marvell ARMADA 500/600
+ * Qualcomm Snapdragon QSD8672/MSM8260/MSM8660(based on Cortex A8)
+ * Rockchip RK2918[13]
+
+###Products
+
+ * HTC Desire
+ * SBM7000
+ * Oregon State University OSWALD
+ * Gumstix Overo Earth
+ * Pandora
+ * Apple iPhone 3GS
+ * Apple iPod touch (3rd and 4th Generation)
+ * Apple iPad (A4)
+ * Apple iPhone 4 (A4)
+ * Apple TV (Second Generation) (A4)
+ * Archos 5
+ * Archos 43
+ * BeagleBoard
+ * Genesi EFIKA MX
+ * Motorola Droid
+ * Motorola Droid X
+ * Motorola Droid 2
+ * Motorola Droid R2D2 Edition
+ * Palm Pre
+ * Palm Pre 2
+ * HP Veer
+ * HP Pre 3
+ * Samsung Omnia HD
+ * Samsung Wave S8500
+ * Samsung i9000 Galaxy S
+ * Samsung P1000 Galaxy Tab
+ * Sony Ericsson Satio
+ * Sony Ericsson Xperia X10
+ * Touch Book
+ * Nokia N900
+ * Meizu M9
+ * Google Nexus S
+ * Galaxy SL
+ * Sharp PC-Z1 "Netwalker".
+
+##Cortex-A9
+
+###Devices
+
+ * Texas Instruments OMAP4430/4440
+ * ST-Ericsson NovaThor U8500 / U9500
+ * Nvidia Tegra2
+ * Tegra3
+ * Samsung Orion / Exynos 4210
+ * STMicroelectronics SPEAr1310
+ * Xilinx Extensible Processing Platform,[14] Trident PNX847x/8x/9x STB SoC,[15] Freescale i.MX6,[16] Apple A5
+
+###Products
+
+ * Samsung Galaxy S II (Samsung Exynos)
+ * Sony Xperia U
+ * Samsung Galaxy S III
+ * Apple iPad 2 & iPhone 4S (A5)
+ * BlackBerry PlayBook (TI OMAP4430)
+ * LG Optimus 2X
+ * LG Optimus 3D
+ * Motorola Atrix 4G
+ * Motorola DROID BIONIC
+ * Motorola Xoom
+ * PandaBoard
+ * PlayStation Vita
+ * HP TouchPad
+ * Acer ICONIA TAB A-series
+ * HTC Sensation
+ * HTC EVO 3D
+ * ASUS Eee Pad Transformer
+ * ASUS Eee Pad Transformer Prime
+ * Lenovo IdeaPad K2
