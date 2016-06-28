@@ -55,8 +55,8 @@ The packages can be found in the ./bin directory under a directory named after y
 * Start off simple and don't install additional modules/options until you've familiarized yourself.
 * Read OpenWRT's [Troubleshooting Guide](http://wiki.openwrt.org/doc/howto/build#troubleshooting) and cjdns-openwrt [Issues](https://github.com/cjdelisle/cjdns-openwrt/issues) for more information.
 * Binaries
-	* .bin Should be used if your router does not currently have OpenWRT firmware installed
-	* .trx Should be used to upgrade previously installed OpenWRT firmware
+	* `.bin` Should be used if your router does not currently have OpenWRT firmware installed
+	* `.trx` Should be used to upgrade previously installed OpenWRT firmware
 
 ###Update/Rebuild
     rm ./dl/cjdns-*
@@ -72,16 +72,16 @@ Installing OpenWRT has the potential of bricking your router.  Installing OpenWR
 
 Some routers require a custom bootloader which requires special preparation for a successful installation.  These steps should be a one-time-only requirement.
 
-sudo apt-get install atftp
-atftp --option "mode octet" --option "timeout  60" --verbose --trace -p -l OPENWRT-CJDNS-FIRMWARE-FILE.bin 192.168.1.1
+	sudo apt-get install atftp
+	atftp --option "mode octet" --option "timeout  60" --verbose --trace -p -l OPENWRT-CJDNS-FIRMWARE-FILE.bin 192.168.1.1
 
-* .bin Should be used if your router does not currently have OpenWRT firmware installed
-* .trx Should be used to upgrade previously installed OpenWRT firmware
+* `.bin` Should be used if your router does not currently have OpenWRT firmware installed
+* `.trx` Should be used to upgrade previously installed OpenWRT firmware
 
 
 
 ##Additional Information
 
-	http://web1.bt-chat.com/cjdns/openwrt/openwrt-src.sh.txt 
-	http://web1.bt-chat.com/cjdns/openwrt/README.txt
+* http://web1.bt-chat.com/cjdns/openwrt/openwrt-src.sh.txt 
+* http://web1.bt-chat.com/cjdns/openwrt/README.txt
 
